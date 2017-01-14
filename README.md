@@ -1,0 +1,2 @@
+# JGNavSegmentScroll
+SegmentScroll在导航栏可点可选切换
